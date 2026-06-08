@@ -1,5 +1,5 @@
 export default {
-  title: 'Things Falling',
+  title: 'Falling Rain <em>/ La Pluie Qui Tombe</em>',
   phenomenon: 'gravity',
   mode: 'fall',
 };

@@ -1,5 +1,5 @@
 export default {
-  title: 'Wind Map',
+  title: 'Wind Map <em>/ Carte des vents</em>',
   phenomenon: 'wind',
   mode: 'flow',
 };

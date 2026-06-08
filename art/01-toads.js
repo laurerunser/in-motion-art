@@ -1,5 +1,5 @@
 export default {
-  title: 'Les Papillonnantes',
+  title: 'Tadpoles <em>/ Têtards</em>',
   phenomenon: 'flutter',
   mode: 'flutter',
 };

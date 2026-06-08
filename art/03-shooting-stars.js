@@ -1,5 +1,5 @@
 export default {
-  title: 'Caniveau <em>/ Gutter</em>',
+  title: 'Shooting Stars <em>/ Etoiles filantes</em>',
   phenomenon: 'flow',
   mode: 'stream',
 };

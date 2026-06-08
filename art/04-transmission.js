@@ -1,5 +1,5 @@
 export default {
-  title: 'Transmission',
+  title: 'Transmission <em>/ Transmission</em>',
   phenomenon: 'signal',
   mode: 'wave',
 };

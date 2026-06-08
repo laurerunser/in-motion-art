@@ -1,5 +1,5 @@
 export default {
-  title: 'Uncertainty Machine',
+  title: 'Midges <em>/ Moucherons</em>',
   phenomenon: 'noise',
   mode: 'noise',
 };

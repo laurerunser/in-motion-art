@@ -1,5 +1,5 @@
 export default {
-  title: 'Le Blob',
+  title: 'Blobs <em>/ Les blobs</em>',
   phenomenon: 'growth',
   mode: 'blob',
 };

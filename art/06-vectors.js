@@ -1,5 +1,5 @@
 export default {
-  title: 'F&nbsp;=&nbsp;MA',
+  title: 'Vectors <em>/ Vecteurs</em>',
   phenomenon: 'force',
   mode: 'force',
 };

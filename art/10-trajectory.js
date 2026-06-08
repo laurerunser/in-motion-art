@@ -1,5 +1,5 @@
 export default {
-  title: 'Trajectory',
+  title: 'Trajectory <em>/ Trajectoire</em>',
   phenomenon: 'arc',
   mode: 'trajectory',
 };

@@ -1,5 +1,5 @@
 export default {
-  title: 'NeuroTopography',
+  title: 'Topography <em>/ Topographie</em>',
   phenomenon: 'network',
   mode: 'neural',
 };

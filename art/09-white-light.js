@@ -1,5 +1,5 @@
 export default {
-  title: 'Sillage et Texte',
+  title: 'White Light <em>/ Lumière blanche</em>',
   phenomenon: 'wake',
   mode: 'wake',
 };
