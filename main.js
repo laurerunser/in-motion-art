@@ -1,23 +1,23 @@
 import { works } from './art/index.js';
 import {
   ARTIST_NAME,
+  ARTIST_URL,
   PAGE_TITLE,
-  DISCIPLINES,
   INTRO_EYEBROW,
   INTRO_HEADING,
   INTRO_HEADING_EM,
   INTRO_TAG,
-  FOOTER_TEXT,
+  FOOTER_HTML,
 } from './copy.js';
 
 document.title = PAGE_TITLE;
 document.querySelector('.topbar .name').innerHTML =
-  `${ARTIST_NAME}<small>${DISCIPLINES}</small>`;
+  `<a href="${ARTIST_URL}" target="_blank" rel="noopener">${ARTIST_NAME}</a>`;
 document.querySelector('.intro .eyebrow').textContent = INTRO_EYEBROW;
 document.querySelector('.intro h1').innerHTML =
   `${INTRO_HEADING} <em>${INTRO_HEADING_EM}</em>`;
 document.querySelector('.intro .tag').textContent = INTRO_TAG;
-document.querySelector('footer').textContent = FOOTER_TEXT;
+document.querySelector('footer').innerHTML = FOOTER_HTML;
 
 const N = works.length;
 document.getElementById('introCount').textContent = `— ${numberWord(N)} works —`;
